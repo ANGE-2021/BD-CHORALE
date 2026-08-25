@@ -1,616 +1,609 @@
-[
-  {
-    "id": "0000",
-    "numero": "01",
-    "titre": "Par tous les saints glorifiés",
-    "categorie": "Cantique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/cantique_xidsf7.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Par tous les saints glorifiés,\n Jésus inspire leurs louanges,\n Plus belles que le chant des anges,\n Gloire à l'Agneau,\n Gloire à l'Agneau,\n Gloire à l'Agneau sacrifié !"
-      },
-      {
-        "numero": 2,
-        "texte": "C'est par Lui qu'est justifié \nTout pécheur qui demande grâce. \nPrêtres et rois devant sa face, \nChantons l'Agneau, \nChantons l'Agneau, \nChantons l'Agneau sacrifié !"
-      },
-      {
-        "numero": 3,
-        "texte": "Par le Père magnifié, \nTout l'univers lui rend hommage. \nL'Agneau régnera d'âge en âge. \nGloire à l'Agneau, \nGloire à l'Agneau, \nGloire à l'Agneau sacrifié !"
-      },
-      {
-        "numero": 4,
-        "texte": "Par son Esprit vivifié, \nJe veux jusqu'à ma dernière heure, \nChanter l'amour qui seule demeure : \nGloire à l'Agneau, \nGloire à l'Agneau, \nGloire à l'Agneau sacrifié !"
-      },
-      {
-        "numero": 5,
-        "texte": "Pour nous Il fut crucifié ; \nSon sang a racheté notre âme ; \nC'est pourquoi notre amour l'acclame : \nGloire à l'Agneau, \nGloire à l'Agneau, \nGloire à l'Agneau sacrifié !"
-      }
-    ]
-  },
-  {
-    "id": "0001",
-    "numero": "02",
-    "titre": "Dans les jours où tout est joie",
-    "categorie": "Cantique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/cantique_xidsf7.png",
-    "favori": true,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Dans les jours où tout est joie, \nLumière et félicité, \nQuand les fleurs sur notre voie \nS'ouvrent au soleil d'été,"
-      },
-      {
-        "type": "Refrain",
-        "texte": "Dieu peut-Il compter sur nous ? \nDieu peut-Il compter sur nous ? \nLe pourra-t-Il jusqu'au bout ? \nDieu peut-Il compter sur nous ?"
-      },
-      {
-        "numero": 2,
-        "texte": "A l'heure du sacrifice, \nQui n'a pas son Morija ?... \nLorsque notre front se plisse, \nQu'en nous se livre un combat,"
-      },
-      {
-        "numero": 3,
-        "texte": "Et si l'obstacle se dresse, \nEffrayant, sur le chemin, \nSi notre cœur en détresse, \nN'ose penser à demain,"
-      },
-      {
-        "numero": 4,
-        "texte": "Quand Dieu cherche sur la terre \nUn fidèle intercesseur, \nS'adonnant à la prière \nPour un monde si pécheur,"
-      },
-      {
-        "numero": 5,
-        "texte": "Par son Esprit, par sa grâce, \nDieu pourra compter sur moi. \nJe le suivrai, quoi qu'Il fasse, \nSur le chemin de la foi."
-      },
-      {
-        "type": "Refrain",
-        "texte": "Oui, tu peux compter sur moi, \nCar je peux compter sur toi. \nJe te suivrai par la foi... \nOui, tu peux compter sur moi."
-      }
-    ]
-  },
-  {
-    "id": "0002",
-    "numero": "03",
-    "titre": "Hosanna, béni soit",
-    "categorie": "Cantique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/cantique_xidsf7.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Hosanna ! Béni soit le Sauveur débonnaire \nQui vers nous, plein d'amour, descend du sein du Père ! \nBéni soit le Seigneur, qui vient des plus hauts cieux \nApporter aux humains, un salut glorieux ! un salut glorieux !"
-      },
-      {
-        "numero": 2,
-        "texte": "Hosanna ! Béni soit le Prince de la vie ! \nQue de joie, en son nom, notre âme soit ravie ! \nQu'en des accents nouveaux elle éclate aujourd'hui ; \nQue tout enfant de Dieu tressaille devant Lui, tressaille devant Lui."
-      },
-      {
-        "numero": 3,
-        "texte": "Hosanna ! Béni soit cet ami charitable \nQue le plus grand pécheur va trouver favorable ! \nHumble et sans apparat, sous notre humanité \nIl a voilé l'éclat de sa divinité, de sa divinité."
-      },
-      {
-        "numero": 4,
-        "texte": "Hosanna ! Béni soit Jésus notre justice ! \nPour nous, pauvres pécheurs, il s'offre en sacrifice ; \nCe Fils du Dieu très-haut, ce puissant Roi des rois, \nPour nous ouvrir le ciel vient mourir sur la Croix, vient mourir sur la Croix."
-      },
-      {
-        "numero": 5,
-        "texte": "Hosanna ! Rachetés, peuple libre et fidèle, \nRépétez Hosanna ! pleins d'une ardeur nouvelle ; \nC'est votre hymne d'amour, c'est votre chant de paix : \nQue ce chant parmi vous retentisse à jamais ! retentisse à jamais !"
-      }
-    ]
-  },
-  {
-    "id": "0003",
-    "numero": "04",
-    "titre": "A Dieu soit la gloire ! Par son Grand Amour",
-    "categorie": "Cantique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/cantique_xidsf7.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "A Dieu soit la gloire ! Par son Grand Amour,\nDans mon âme noire, s'est levé le jour.\nJésus, à ma place, mourut sur la Croix,\nIl m'offre sa Grâce et je la reçois !"
-      },
-      {
-        "type": "Refrain",
-        "texte": "Gloire à Dieu ! Gloire à Dieu !\nTerre, écoutez sa voix !\nGloire à Dieu ! Gloire à Dieu !\nMonde, réjouis-toi !\nOh ! Venez au Père, Jésus est vainqueur ;\nQue toute la terre chante en son honneur !"
-      },
-      {
-        "numero": 2,
-        "texte": "De Jésus, la joie, remplit notre cœur ;\nQu'importe qu'on voie tout notre bonheur,\nSelon sa promesse, Jésus changera\nDeuil en allégresse, quand Il reviendra."
-      }
-    ]
-  },
-  {
-    "id": "0004",
-    "numero": "05",
-    "titre": "Chantons avec reconnaissance",
-    "categorie": "Cantique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/cantique_xidsf7.png",
-    "favori": true,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Chantons avec reconnaissance\nUn saint cantique à notre Dieu.\nC’est son amour, c’est sa puissance \nQui nous rassemble en ce lieu. \nC’est déjà le ciel sur la terre, \nC’est l’aube du jour éternel. \nVoici les fils d’un même père \nUnis dans l’amour fraternel."
-      },
-      {
-        "numero": 2,
-        "texte": "Rien autre, ô Jésus, que ta grâce\nN’aurait pu joindre en un seul corps\nCes enfants d’une pauvre race \nQui se déchiraient sans remords.\nDe pleurs et de sang arrosée,\nLa terre va enfin refleurir. \nEt la colombe s’est posée \nSur le monde près de périr."
-      }
-    ]
-  },
-  {
-    "id": "0005",
-    "numero": "06",
-    "titre": "Que ne puis-je ô mon Dieu",
-    "categorie": "Cantique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/cantique_xidsf7.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Que ne puis-je, ô mon Dieu, Dieu de ma délivrance, \nRemplir de ta louange et la terre et les cieux, \nLes prendre pour témoins de ma reconnaissance. \nEt dire au monde entier combien je suis heureux."
-      },
-      {
-        "numero": 2,
-        "texte": "Heureux quand je te parle, et que de ma poussière, \nJe fais monter vers Toi mon hommage ou mon vœu, \nAvec la liberté d'un fils devant son père, \nEt le saint tremblement d'un pécheur devant Dieu."
-      },
-      {
-        "numero": 3,
-        "texte": "Heureux, lorsque, assailli par l'ange de la chute, \nPrenant la Croix pour arme et l'Agneau pour Sauveur, \nJe triomphe à genoux, et sors de cette lutte, \nVainqueur, mais tout meurtri ; tout meurtri mais vainqueur !"
-      },
-      {
-        "numero": 4,
-        "texte": "Heureux, toujours heureux ! J'ai le Dieu fort pour Père,\nPour frère, Jésus-Christ, pour conseil, l'Esprit-Saint :\nQue peut ôter l'enfer, que peut donner la terre \nA qui jouit du ciel et du Dieu trois fois Saint ?"
-      }
-    ]
-  },
-  {
-    "id": "0006",
-    "numero": "07",
-    "titre": "Je suis heureux que notre Père aux cieux",
-    "categorie": "Classique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/classique_dy9z9n.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Je suis heureux que notre Père aux cieux\nProclame son amour dans le livre Saint.\nLes merveilles de la Bibles que je vois.\nLa plus chère c'est son amour pour moi.\nJe suis heureux car Jésus m'aime, Jésus m'aime,\nJésus m'a tant aimé.\nJe suis heureux car il m'a tant aimé."
-      }
-    ]
-  },
-  {
-    "id": "0007",
-    "numero": "08",
-    "titre": "Je suis heureux d'être en Jésus",
-    "categorie": "Classique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/classique_dy9z9n.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Je suis heureux d'être en Jésus et ma joie provient de Jéhovah.\nC'est lui qui m'a choisi parmi mes frères, c'est lui qui m'a choisi.\nIl est mon créateur mon Dieu, mon libérateur et mon sauveur.\nAdorons-le glorifions Jésus christ fils de Dieu.\nSoprano et alto :\nTu es notre Roi, fils de Dieu, tu es notre Roi, notre Maître,\nFils de Dieu, tu es notre maître,\nC’est toi Jésus que nous adorons tous\nAlto :\ntu es notre Roi, fils de Dieu, tu es notre Roi,\ntu reste à jamais notre Maître, fils de Dieu,\ntu es notre maître, c'est toi Jésus que nous Adorons vraiment\nTénor et basse:\n Jésus, c'est toi, notre Maître seigneur Jésus,\nseigneur, c'est toi Jésus, que nous Adorons tous,\nque nous Adorons tous."
-      },
-      {
-        "type": "Choeur",
-        "texte": "nous cherchons ta face Seigneur,\nnous marchons avec toi,\nnous marchons avec toi,,\navec Jésus christ nous ne craignons aucun mal sur la terre."
-      }
-    ]
-  },
-  {
-    "id": "0008",
-    "numero": "09",
-    "titre": "Alléluia ! Alléluia ! Gloire à Dieu dans son saint temple",
-    "categorie": "Classique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/classique_dy9z9n.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Alléluia ! Alléluia !\nAlléluia ! Alléluia ! Gloire à Dieu dans son saint temple.\nGloire à Dieu dans son firmament.\nAlléluia (4 fois)\nGlorifiez-le (3 fois)\nPartout pour sa grandeur infinie.\nAlto et Basse :\nGlorifiez-le pour ses grands et puissants bienfaits\nSoprano et Ténor :\nGlorifiez-le pour ses grands et puissants bienfaits\nAlléluia ! Alléluia !\nSoprano : \nO loue le avec la trompette loue le avec la harpe la lyre o loue le avec\nLe chœur :\nla trompette loue le avec la harpe la lyre.\nAlléluia (5 fois)\nDansez au son des tambourins (2),\n\nGlorifiez-le avec des instruments à cordes.\nSoprano et alto :\n Alléluia (5 fois)\nTénor et basse :\nGloire, gloire au Seigneur aux accords des cymbales (2 fois)\nTénor et basse : \nAlléluia (9 fois)\nSoprano et alto :\n Gloire, gloire au Seigneur aux accords des cymbales (2 fois)\n\nQue tout ce qui,\nQue tout ce qui,\nRespire glorifie le Seigneur gloire à Dieu gloire à Dieu.\nAlléluia (20 fois)"
-      }
-    ]
-  },
-  {
-    "id": "0009",
-    "numero": 10,
-    "titre": "Exaltez Jésus rédempteur",
-    "categorie": "Classique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/classique_dy9z9n.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Exaltez Jésus rédempteur\nC’est le nom de l’homme Dieu.\nJésus revient, il vient bientôt.\nSois dans la joie ô peuple de lumière\nSur la croix (3 fois) …\nJésus donna l’espoir que tout est accompli en lui.\nTout est accompli.\nPécheur répands-toi, Jésus tient les clés du paradis.\nAujourd’hui si vous entendez sa voix,\nN’endurcissez point votre volonté.\nAccourez à lui, car c’est lui Jésus\nQui vous a donné sa vie à la croix.\nIl vous appelle, soyez revêtus de robes blanches.\nAllez au grand festin de l’agneau.\nTénor :\n ô prends mon âme, prends-la ô Seigneur\nAlto : \n Et que ta flamme brûle au-dedans de mon cœur\nSoprano : \n Sois mon seul maitre, ô toi. Mon divin Roi\nBasse : \n Que tout mon être vibre pour toi ô Jésus,\nSource de vie, de paix, d’amour, merveilleux\nJésus (8fois) … loin de toi j’étais perdu.\nJésus (8 fois) ouvre ton ciel, tourne vers moi ta face.\nMerci, Seigneur (bis), c’est toi qui m’as racheté,\nJe te donne mon cœur.\nTa grande justice reste à jamais force, pouvoir,\nLouange, honneur, gloire et puissance."
-      }
-    ]
-  },
-  {
-    "id": "0010",
-    "numero": 11,
-    "titre": "Seigneur tu fus notre refuge",
-    "categorie": "Classique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/classique_dy9z9n.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Seigneur ! Tu fus notre refuge\nDès les âges lointains\nDe père en fils éternel juge\nTu règles nos destins\nMille ans pour toi n’ont que l’espace\nD’un jour quand il n’est plus\nAinsi qu’un songe bientôt passe\nIls sont tous révolus."
-      },
-      {
-        "texte": "Avant que le monde ne fût (bis)\nAinsi (basse), ainsi que la terre (4)\nA jamais, à jamais\nTu es l’unique et même Dieu\nD’éternité en éternité\nA jamais le même\nTu es Dieu éternellement,\nA jamais le même. Psaumes 90"
-      }
-    ]
-  },
-  {
-    "id": "0011",
-    "numero": 12,
-    "titre": "Gloire soit à Dieu qui règne en suprême souverain",
-    "categorie": "Classique",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262095/classique_dy9z9n.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Gloire soit à Dieu qui règne en suprême souverain,\nrendons grâce à Dieu créateur, louez le à jamais,\ntoutes les nations Adorons l'Eternel Prince de gloire.\nServez avec joie le seigneur Dieu de l'univers\n\nSolo alto :\nLui comme un berger,\naimable et tendre nous garde dans de verts pâturages.\nLui comme un berger chérit ses enfants\nprenant les meurtris dans ses bras d'amour.\n\nSolo basse\nÀ travers la vallée et la pénombre,\nil sera avec nous pour guider nos pas,\nil nous défendra tout au long du chemin,\nilluminée par sa sainte gloire.\n\nDuo soprano et Ténor :\nHeureuses sont les âmes qui,\ntrouvent leur refuge en Dieu seul,\nsous sa puissante bannière\nelles seront bénie à jamais\n\nChœur :\nbattez vos mains de joie peuple,\nbattez vos mains de joie, louez Jéhovah,\naccourrez dans son saint temple,\npour proclamer ses hauts faits.\nBattez vos mains de joie peuple.\nExaltez-le au son de vos instruments.\nGloire gloire alléluia, terre chante, chante fort amen.\nToujours plus fort amen."
-      }
-    ]
-  },
-  {
-    "id": "0012",
-    "numero": 13,
-    "titre": "Oh Dieu tu es digne de recevoir",
-    "categorie": "Louange",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/louange_rpbvv1.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Oh Dieu tu es digne de recevoir, \nToute la gloire Oui\nToute la gloire (bis) \n\nNon point à nous Seigneur, \nMais à toi seul toute la gloire\n\nO Dieu tu es digne de recevoir\nToute la gloire à Jamais (bis) \n\nO Dieu tu es digne de recevoir\nToute la gloire(bis) \n"
-      }
-    ]
-  },
-  {
-    "id": "0013",
-    "numero": 14,
-    "titre": "Amen\nAmen Alléluia",
-    "categorie": "Louange",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/louange_rpbvv1.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Amen\nAmen\nAlléluia\nAvec des actions joyeuses\nLouons le Seigneur Jésus, \nGlorifions le saint des saints\nCélébrons sa Majesté. \nAlléluia Amen, Alléluia\nAmen (x2) \nLouange et gloire à Dieu\nAmen\n"
-      }
-    ]
-  },
-  {
-    "id": "0014",
-    "numero": 15,
-    "titre": "Amen ! Alléluia l’Eternel est mon berger",
-    "categorie": "Louange",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/louange_rpbvv1.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Amen ! Alléluia, \nL’Eternel est mon berger, \nTout est en moi. \nJe repose dans les beaux lieux, \nMon âme en paix. \nIl me conduit dans les sentiers, \nDe la justice à cause de² son nom\n"
-      }
-    ]
-  },
-  {
-    "id": "0015",
-    "numero": 16,
-    "titre": "Si je vis Seigneur c'est par ta grâce",
-    "categorie": "Louange",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/louange_rpbvv1.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Si je vis Seigneur c'est par ta grâce, \nPar ta bonté tu me donnes la paix du cœur, \n\nSoit loué, soit loué, \nOh Dieu soit loué. \n\nOh mon Sauveur, \n \nMon Rédempteur, \nOh mon Guide Et bon Berger.\nTu m'as délivré de mes souffrances Oh mon Dieu,\nSoit loué... \nOh Dieu soit loué.\n\nJe glorifie\n(Gloire) !\nTon saint Nom Jésus christ\n(Gloire) !\nJe proclame\n(Gloire) !\nOh mon Dieu tes bienfaits\n(Gloire) !✓ \nOh Dieu Tout puissant\n(Puissant) !✓ \nOh grand Dieu suprême, \n \n(Merci) !✓ \n\nMerci / merci à toi oh mon sauveur. \n\n"
-      }
-    ]
-  },
-  {
-    "id": "0016",
-    "numero": 17,
-    "titre": "Si je vis c'est grâce à Dieu, la source de tous mes biens",
-    "categorie": "Louange",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/louange_rpbvv1.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Si je vis c'est grâce à Dieu, la source de tous mes biens, \nIl est l'auteur de ma foi, il est tout pour moi.\nCe que je reçois, me vient de l'Eternel Dieu\n(C’est pourquoi) je me réjouis en chantant. \n\nVoilà pourquoi mon être vibre pour lui,\nje tressaille pour lui, je me réjouis pour lui,\n(voilà pourquoi) je le louerai toujours (oui vraiment).\nCe que je reçois me vient de l'Eternel Dieu\n(c'est pourquoi) je me réjouis en chantant.\n\nJésus a versé, son sang pour moi, \nil m'a donné la paix, le bonheur. \nCe que je reçois me vient de Jésus que son nom glorifié. \n"
-      }
-    ]
-  },
-  {
-    "id": "0017",
-    "numero": 18,
-    "titre": "Vous avez décidé ce jour de demeurer ensemble toujours",
-    "categorie": "Mariage",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/mariage_mn4jek.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Vous avez décidé ce jour de demeurer ensemble toujours\nPour le bien et pour le pire\nSoyez donc fidèles\nDans la joie réjouissez-vous.\nDans les peines priez.\n\nSolo ténor : \nPréservez toujours l’amour, \nPréservez toujours l'entente. \nC'est à ce prix que Jésus bénira votre foyer. \n"
-      }
-    ]
-  },
-  {
-    "titre": "A qu’il est beau",
-    "numero": 19,
-    "categorie": "Mariage",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/mariage_mn4jek.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "A qu’il est beau, \nDe voir des frères, \nD’un même amour, \nUnis entre eux. \nEsprit de Dieu, \nÉclaire tes enfants, \nEmbrasse-les, \nDe ton amour \n"
-      }
-    ],
-    "id": "0018"
-  },
-  {
-    "id": "0019",
-    "numero": 20,
-    "titre": "Venez voir",
-    "categorie": "Mariage",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/mariage_mn4jek.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Venez (x2) \nVenez voir (x3) \nVoyez comment je loue mon Dieu \nVenez, venez, venez \nFaire comme moi. \n"
-      }
-    ]
-  },
-  {
-    "id": "0020",
-    "numero": 21,
-    "titre": "Sika or ni djètè hufué",
-    "categorie": "Offrande",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/offrande_heibgt.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Sika or ni djètè hufué\nO ti wo liè\nMi mien fa blè wo\nSo mi tchèlè nu o mien.\n\nTenor : Anangaman Gnamien"
-      }
-    ]
-  },
-  {
-    "id": "0021",
-    "numero": 22,
-    "titre": "J’ai fait don de ma personne",
-    "categorie": "Offrande",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/offrande_heibgt.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "J’ai fait don de ma personne \nA Jésus le rédempteur\n Car en vain, dans tout l’univers\nJ’ai cherché le don parfait\nIl vaut mieux que ce soit ainsi\n Si je désire vivre en sa présence."
-      }
-    ]
-  },
-  {
-    "id": "0022",
-    "numero": 23,
-    "titre": "Venez avec joie",
-    "categorie": "Offrande",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262098/offrande_heibgt.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Venez avec joie, \ndonnez tous vos présents à Dieu.\nDonnez à Dieu sans regret"
-      }
-    ]
-  },
-  {
-    "id": "0023",
-    "numero": 24,
-    "titre": "Ne cherchez parmi les morts celui qui est vivant",
-    "categorie": "Pâque",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262532/paque_nmo2du.jpg",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Ne cherchez parmi les morts celui qui est vivant.\nJésus n'est pas ici, il a vaincu la mort.\nIl est ressuscité."
-      }
-    ]
-  },
-  {
-    "id": "0024",
-    "numero": 25,
-    "titre": "Alléluia Christ ressuscité",
-    "categorie": "Pâque",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262532/paque_nmo2du.jpg",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Alléluia Christ ressuscité\nAlléluia Christ est vivant\nAvec joie et action de grâce,\nRencontre notre libérateur.\n\nAlléluia Christ est ressuscité, \nQue le ciel et terre écoute ce chant\nQue tous nos regards se tournent vers le sauveur,\nAlléluia il est ressuscité alléluia."
-      }
-    ]
-  },
-  {
-    "id": "0025",
-    "numero": 26,
-    "titre": "Au troisième jours, Christ a vaincu la mort",
-    "categorie": "Pâque",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262532/paque_nmo2du.jpg",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Au troisième jours, Christ a vaincu la mort,\nAu troisième jour Christ est ressuscité. (*2 fois)\nLouez-le louez le peuple louez le louez le.\nLouez-le louez le peuple louez le louez le."
-      }
-    ]
-  },
-  {
-    "id": "0026",
-    "numero": 27,
-    "titre": "Glorifions Jésus le Roi des rois",
-    "categorie": "Pâque",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262532/paque_nmo2du.jpg",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Glorifions Jésus le Roi des rois,\nIl a vaincu la mort, le péché.\nMagnifions le car il est ressuscité,\nIl est vivant (vivant)\nJe ne crains plus rien"
-      }
-    ]
-  },
-  {
-    "id": "0027",
-    "numero": 28,
-    "titre": "Jérusalem",
-    "categorie": "Pâque",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262532/paque_nmo2du.jpg",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Jérusalem, séjour de paix\nJérusalem, cité des cieux\nUn jour surement\nNous serons avec Christ\nChantant alléluia !"
-      }
-    ]
-  },
-  {
-    "id": "0028",
-    "numero": 29,
-    "titre": "C’est pour toi que Jésus a été crucifié à Golgotha",
-    "categorie": "Pâque",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262532/paque_nmo2du.jpg",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "C’est pour toi que Jésus a été crucifié à Golgotha,\nLà-bas, Il a pris tes souffrances et tes douleurs.\nBien ainé ouvre lui ton cœur\nC’est lui ton sauveur, Il mettra fin à tes soucis\nRien n’est impossible à ce Jésus rédempteur"
-      }
-    ]
-  },
-  {
-    "id": "0029",
-    "numero": 30,
-    "titre": "Je suis le vrai pain",
-    "categorie": "Sainte-Scène",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262097/sainte_scene_psavbo.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Je suis le vrai pain\nLe vrai pain de vie\nQui vient à moi n’aura jamais faim et soif\nQui croit en moi n’aura jamais faim et soif\nMais il aura la vie éternelle\nMais il aura la vie éternelle. Amen !"
-      }
-    ]
-  },
-  {
-    "id": "0030",
-    "numero": 31,
-    "titre": "Je ne sais pourquoi, dans sa grâce",
-    "categorie": "Sainte-Scène",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262097/sainte_scene_psavbo.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Je ne sais pourquoi, dans sa grâce,\nJésus m’a tant aimé,\nPourquoi par son sang il efface,\nma dette et mon péché."
-      },
-      {
-        "type": "Refrain :",
-        "texte": "Mais, je sais, qu’en Lui j’ai la vie,\nIl m’a sauvé dans son amour ;\nEt gardé par sa main meurtrie,\nJ’attends l’heure de son retour."
-      },
-      {
-        "numero": 2,
-        "texte": "Je ne sais comment la lumière\nEclaire tout mon cœur,\nComment je compris ma misère\nEt reçus mon sauveur !"
-      },
-      {
-        "numero": 3,
-        "texte": "Je ne sais quelle est la mesure\nDe joie et de douleur\nQue pour moi, faible créature,\nRéserve mon sauveur"
-      },
-      {
-        "numero": 4,
-        "texte": "Je ne sais quand de la victoire\nL'heure enfin sonnera,\nQuand l'Agneau, l'Epoux, dans sa gloire\nAvec Lui me prendra."
-      }
-    ]
-  },
-  {
-    "id": "0031",
-    "numero": 32,
-    "titre": "Au pied de la sainte croix",
-    "categorie": "Sainte-Scène",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262097/sainte_scene_psavbo.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "AU pied de la sainte croix,\nJaillit la fontaine\nDu salut que je reçois,\nGrâce souveraine."
-      },
-      {
-        "type": "Refrain",
-        "texte": "O Sauveur, rédempteur,\nPar toi j'ai la vie ;\nC'est dans le sang de la croix\nQue je me confie."
-      },
-      {
-        "numero": 2,
-        "texte": "Seigneur, le sang de ta croix\nMes péchés efface,\nTu me le dis, je le crois:\n«Du mal plus de trace.»"
-      },
-      {
-        "numero": 3,
-        "texte": "M'asseoie au pied de ta croix\nEst mon doux partage,\nC'est là que j'entends ta voix\nQui me dit : courage !"
-      },
-      {
-        "numero": 4,
-        "texte": "Jusqu'au bout, la sainte croix\nSera mon seul thème,\nCar près d'elle, j'entrevois\nAu loin le ciel même."
-      }
-    ]
-  },
-  {
-    "id": "0032",
-    "numero": 33,
-    "titre": "Blanc, plus blanc que neige",
-    "categorie": "Sainte-Scène",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262097/sainte_scene_psavbo.png",
-    "favori": false,
-    "sections": [
-      {
-        "numero": 1,
-        "texte": "Jésus, par ton sang précieux,\nEnlève mon iniquité !\nRegarde-moi du haut des cieux,\nDis-moi que tu m'as pardonné... \nJ'ai longtemps erré, coeur rebelle,\nMais j'entends ta voix qui m'appelle,\nAu pied de ta croix, maintenant,\nTout confus, brisé, je me rends."
-      },
-      {
-        "type": "Refrain :",
-        "texte": "Blanc, plus blanc que neige, \nBlanc, plus blanc que neige, \nLavé dans le sang de l'Agneau, \nJe serai plus blanc que la neige ! "
-      },
-      {
-        "numero": 2,
-        "texte": "Oh ! le fardeau de mon péché, \nDieu très saint, est trop grand pour moi ! \nJe veux en être délivré, \nA cette heure, oh ! révèle-toi ! \nJésus, viens, sois ma délivrance, \nSeul tu peux calmer ma souffrance ! \nAu pied de ta croix, maintenant, \nTout confus, brisé, je me rends. "
-      },
-      {
-        "numero": 3,
-        "texte": "Oh ! Jésus, ton sang précieux \nA lavé mon iniquité, \nOui, tu m'as répondu des cieux, \nTon amour m'a tout pardonné. \nJe te contemple et je puis croire \nQu'en toi j'ai complète victoire... \nAu pied de ta croix, maintenant, \nJe me relève, triomphant ! "
-      },
-      {
-        "type": "Refrain :",
-        "texte": "Blanc, plus blanc que neige, \nBlanc, plus blanc que neige, \nLavé dans le sang de l'Agneau, \nMon cœur est plus blanc que la neige !"
-      }
-    ]
-  },
-  {
-    "id": "0033",
-    "numero": 34,
-    "titre": "Ba wu Jésus ba man yé n'dê tchin ba su",
-    "categorie": "Nôel",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262099/noel_pxdbll.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Ba wu Jésus ba man yé n'dê tchin ba su. \nBua kankanfuê mun ô nin nglwêlê fuê mun.\nÔ nin n'glolô anju mun klwa amun bla, \nMan yé to andjuê djué ye kanvun yi. \n\nYa nyan nguan manfuê. \nY'a yo aladjé difuê mun. \n\nY'a nyan nguan manfuê, \nyê lê yé defuê mien Jesus."
-      }
-    ]
-  },
-  {
-    "id": "0034",
-    "numero": 35,
-    "titre": "Chrétien réjouis-toi",
-    "categorie": "Nôel",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262099/noel_pxdbll.png",
-    "favori": false,
-    "sections": [
-      {
-        "texte": "Chrétien réjouis-toi, \nEt tressaille d'allégresse. \nChantons chantons sans cesse. \nIl est Roi de l'univers. \n\nOui le seigneur, \nIl est Roi \nLe Seigneur de l'univers, \nL'univers. \n\nOui le sauveur, \nIl est Roi \nLe sauveur de l'univers, \nL'univers."
-      }
-    ]
-  },
-  {
-    "id": "0035",
-    "numero": 36,
-    "titre": "Chant",
-    "categorie": "Nôel",
-    "vignette": "https://res.cloudinary.com/b2ywsm34/image/upload/v1783262099/noel_pxdbll.png",
-    "favori": false,
-    "sections": [
-      {
-        "type": "couplet",
-        "numero": 1,
-        "texte": ""
-      }
-    ]
-  }
-]
+{
+  "version": 1,
+  "derniere_mise_a_jour": "2026-08-25",
+  "chants":[
+    {
+      "identifiant": "C001",
+      "numero": "01",
+      "titre": "Par tous les saints glorifiés",
+      "categorie": "Cantique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Par tous les saints glorifiés,\nJésus inspire leurs louanges,\nPlus belles que le chant des anges,\nGloire à l'Agneau,\nGloire à l'Agneau,\nGloire à l'Agneau sacrifié !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> C'est par Lui qu'est justifié\nTout pécheur qui demande grâce.\nPrêtres et rois devant sa face,\nChantons l'Agneau,\nChantons l'Agneau,\nChantons l'Agneau sacrifié !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> Par le Père magnifié,\nTout l'univers lui rend hommage.\nL'Agneau régnera d'âge en âge.\nGloire à l'Agneau,\nGloire à l'Agneau,\nGloire à l'Agneau sacrifié !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>4.</span> Par son Esprit vivifié,\nJe veux jusqu'à ma dernière heure,\nChanter l'amour qui seule demeure :\nGloire à l'Agneau,\nGloire à l'Agneau,\nGloire à l'Agneau sacrifié !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>5.</span> Pour nous Il fut crucifié ;\nSon sang a racheté notre âme ;\nC'est pourquoi notre amour l'acclame :\nGloire à l'Agneau,\nGloire à l'Agneau,\nGloire à l'Agneau sacrifié !"
+        }
+      ]
+    },
+    {
+      "identifiant": "C002",
+      "numero": "02",
+      "titre": "Dans les jours où tout est joie",
+      "categorie": "Cantique",
+      "favori": true,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Dans les jours où tout est joie,\nLumière et félicité,\nQuand les fleurs sur notre voie\nS'ouvrent au soleil d'été,"
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nDieu peut-Il compter sur nous ?\nDieu peut-Il compter sur nous ?\nLe pourra-t-Il jusqu'au bout ?\nDieu peut-Il compter sur nous ?"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> A l'heure du sacrifice,\nQui n'a pas son Morija ?...\nLorsque notre front se plisse,\nQu'en nous se livre un combat,"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> Et si l'obstacle se dresse,\nEffrayant, sur le chemin,\nSi notre cœur en détresse,\nN'ose penser à demain,"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>4.</span> Quand Dieu cherche sur la terre\nUn fidèle intercesseur,\nS'adonnant à la prière\nPour un monde si pécheur,"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>5.</span> Par son Esprit, par sa grâce,\nDieu pourra compter sur moi.\nJe le suivrai, quoi qu'Il fasse,\nSur le chemin de la foi."
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nOui, tu peux compter sur moi,\nCar je peux compter sur toi.\nJe te suivrai par la foi...\nOui, tu peux compter sur moi."
+        }
+      ]
+    },
+    {
+      "identifiant": "C003",
+      "numero": "03",
+      "titre": "Hosanna, béni soit",
+      "categorie": "Cantique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Hosanna ! Béni soit le Sauveur débonnaire\nQui vers nous, plein d'amour, descend du sein du Père !\nBéni soit le Seigneur, qui vient des plus hauts cieux\nApporter aux humains, un salut glorieux ! un salut glorieux !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> Hosanna ! Béni soit le Prince de la vie !\nQue de joie, en son nom, notre âme soit ravie !\nQu'en des accents nouveaux elle éclate aujourd'hui ;\nQue tout enfant de Dieu tressaille devant Lui, tressaille devant Lui."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> Hosanna ! Béni soit cet ami charitable\nQue le plus grand pécheur va trouver favorable !\nHumble et sans apparat, sous notre humanité\nIl a voilé l'éclat de sa divinité, de sa divinité."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>4.</span> Hosanna ! Béni soit Jésus notre justice !\nPour nous, pauvres pécheurs, il s'offre en sacrifice ;\nCe Fils du Dieu très-haut, ce puissant Roi des rois,\nPour nous ouvrir le ciel vient mourir sur la Croix, vient mourir sur la Croix."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>5.</span> Hosanna ! Rachetés, peuple libre et fidèle, \nRépétez Hosanna ! pleins d'une ardeur nouvelle ; \nC'est votre hymne d'amour, c'est votre chant de paix : \nQue ce chant parmi vous retentisse à jamais ! retentisse à jamais !"
+        }
+      ]
+    },
+    {
+      "identifiant": "C004",
+      "numero": "04",
+      "titre": "A Dieu soit la gloire ! Par son Grand Amour",
+      "categorie": "Cantique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> A Dieu soit la gloire ! Par son Grand Amour,\nDans mon âme noire, s'est levé le jour.\nJésus, à ma place, mourut sur la Croix,\nIl m'offre sa Grâce et je la reçois !"
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nGloire à Dieu ! Gloire à Dieu !\nTerre, écoutez sa voix !\nGloire à Dieu ! Gloire à Dieu !\nMonde, réjouis-toi !\nOh ! Venez au Père, Jésus est vainqueur ;\nQue toute la terre chante en son honneur !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> De Jésus, la joie, remplit notre cœur ;\nQu'importe qu'on voie tout notre bonheur,\nSelon sa promesse, Jésus changera\nDeuil en allégresse, quand Il reviendra."
+        }
+      ]
+    },
+    {
+      "identifiant": "C005",
+      "numero": "05",
+      "titre": "Chantons avec reconnaissance",
+      "categorie": "Cantique",
+      "favori": true,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Chantons avec reconnaissance\nUn saint cantique à notre Dieu.\nC’est son amour, c’est sa puissance\nQui nous rassemble en ce lieu.\nC’est déjà le ciel sur la terre,\nC’est l’aube du jour éternel.\nVoici les fils d’un même père\nUnis dans l’amour fraternel."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> Rien autre, ô Jésus, que ta grâce\nN’aurait pu joindre en un seul corps\nCes enfants d’une pauvre race\nQui se déchiraient sans remords.\nDe pleurs et de sang arrosée,\nLa terre va enfin refleurir.\nEt la colombe s’est posée\nSur le monde près de périr."
+        }
+      ]
+    },
+    {
+      "identifiant": "C006",
+      "numero": "06",
+      "titre": "Que ne puis-je ô mon Dieu",
+      "categorie": "Cantique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Que ne puis-je, ô mon Dieu, Dieu de ma délivrance,\nRemplir de ta louange et la terre et les cieux,\nLes prendre pour témoins de ma reconnaissance.\nEt dire au monde entier combien je suis heureux."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> Heureux quand je te parle, et que de ma poussière,\nJe fais monter vers Toi mon hommage ou mon vœu,\nAvec la liberté d'un fils devant son père,\nEt le saint tremblement d'un pécheur devant Dieu."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> Heureux, lorsque, assailli par l'ange de la chute,\nPrenant la Croix pour arme et l'Agneau pour Sauveur,\nJe triomphe à genoux, et sors de cette lutte,\nVainqueur, mais tout meurtri ; tout meurtri mais vainqueur !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>4.</span> Heureux, toujours heureux ! J'ai le Dieu fort pour Père,\nPour frère, Jésus-Christ, pour conseil, l'Esprit-Saint :\nQue peut ôter l'enfer, que peut donner la terre\nA qui jouit du ciel et du Dieu trois fois Saint ?"
+        }
+      ]
+    },
+    {
+      "identifiant": "C007",
+      "numero": "07",
+      "titre": "Je suis heureux que notre Père aux cieux",
+      "categorie": "Classique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Je suis heureux que notre Père aux cieux\nProclame son amour dans le livre Saint.\nLes merveilles de la Bibles que je vois.\nLa plus chère c'est son amour pour moi.\nJe suis heureux car Jésus m'aime, Jésus m'aime,\nJésus m'a tant aimé.\nJe suis heureux car il m'a tant aimé."
+        }
+      ]
+    },
+    {
+      "identifiant": "C008",
+      "numero": "08",
+      "titre": "Je suis heureux d'être en Jésus",
+      "categorie": "Classique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Je suis heureux d'être en Jésus et ma joie provient de Jéhovah.\nC'est lui qui m'a choisi parmi mes frères, c'est lui qui m'a choisi.\nIl est mon créateur mon Dieu, mon libérateur et mon sauveur.\nAdorons-le glorifions Jésus christ fils de Dieu.\nSoprano et alto :\nTu es notre Roi, fils de Dieu, tu es notre Roi, notre Maître,\nFils de Dieu, tu es notre maître,\nC’est toi Jésus que nous adorons tous\nAlto :\ntu es notre Roi, fils de Dieu, tu es notre Roi,\ntu reste à jamais notre Maître, fils de Dieu,\ntu es notre maître, c'est toi Jésus que nous Adorons vraiment\nTénor et basse:\n Jésus, c'est toi, notre Maître seigneur Jésus,\nseigneur, c'est toi Jésus, que nous Adorons tous,\nque nous Adorons tous."
+        },
+        {
+          "type": "choeur",
+          "texte": "<span style='color:red; font-weight:bold;'>Chœur :</span>\nnous cherchons ta face Seigneur,\nnous marchons avec toi,\nnous marchons avec toi,,\navec Jésus christ nous ne craignons aucun mal sur la terre."
+        }
+      ]
+    },
+    {
+      "identifiant": "C009",
+      "numero": "09",
+      "titre": "Alléluia ! Alléluia ! Gloire à Dieu dans son saint temple",
+      "categorie": "Classique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Alléluia ! Alléluia !\nAlléluia ! Alléluia ! Gloire à Dieu dans son saint temple.\nGloire à Dieu dans son firmament.\nAlléluia (4 fois)\nGlorifiez-le (3 fois)\nPartout pour sa grandeur infinie.\nAlto et Basse :\nGlorifiez-le pour ses grands et puissants bienfaits\nSoprano et Ténor :\nGlorifiez-le pour ses grands et puissants bienfaits\nAlléluia ! Alléluia !\nSoprano : \nO loue le avec la trompette loue le avec la harpe la lyre o loue le avec\nLe chœur :\nla trompette loue le avec la harpe la lyre.\nAlléluia (5 fois)\nDansez au son des tambourins (2),\n\nGlorifiez-le avec des instruments à cordes.\nSoprano et alto :\n Alléluia (5 fois)\nTénor et basse :\nGloire, gloire au Seigneur aux accords des cymbales (2 fois)\nTénor et basse : \nAlléluia (9 fois)\nSoprano et alto :\n Gloire, gloire au Seigneur aux accords des cymbales (2 fois)\n\nQue tout ce qui,\nQue tout ce qui,\nRespire glorifie le Seigneur gloire à Dieu gloire à Dieu.\nAlléluia (20 fois)"
+        }
+      ]
+    },
+    {
+      "identifiant": "C010",
+      "numero": "10",
+      "titre": "Exaltez Jésus rédempteur",
+      "categorie": "Classique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Exaltez Jésus rédempteur\nC’est le nom de l’homme Dieu.\nJésus revient, il vient bientôt.\nSois dans la joie ô peuple de lumière\nSur la croix (3 fois) …\nJésus donna l’espoir que tout est accompli en lui.\nTout est accompli.\nPécheur répands-toi, Jésus tient les clés du paradis.\nAujourd’hui si vous entendez sa voix,\nN’endurcissez point votre volonté.\nAccourez à lui, car c’est lui Jésus\nQui vous a donné sa vie à la croix.\nIl vous appelle, soyez revêtus de robes blanches.\nAllez au grand festin de l’agneau.\nTénor :\n ô prends mon âme, prends-la ô Seigneur\nAlto : \n Et que ta flamme brûle au-dedans de mon cœur\nSoprano : \n Sois mon seul maitre, ô toi. Mon divin Roi\nBasse : \n Que tout mon être vibre pour toi ô Jésus,\nSource de vie, de paix, d'amour, merveilleux\nJésus (8fois) … loin de toi j’étais perdu.\nJésus (8 fois) ouvre ton ciel, tourne vers moi ta face.\nMerci, Seigneur (bis), c’est toi qui m’as racheté,\nJe te donne mon cœur.\nTa grande justice reste à jamais force, pouvoir,\nLouange, honneur, gloire et puissance."
+        }
+      ]
+    },
+    {
+      "identifiant": "C011",
+      "numero": "11",
+      "titre": "Seigneur tu fus notre refuge",
+      "categorie": "Classique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Seigneur ! Tu fus notre refuge\nDès les âges lointains\nDe père en fils éternel juge\nTu règles nos destins\nMille ans pour toi n’ont que l’espace\nD’un jour quand il n’est plus\nAinsi qu’un songe bientôt passe\nIls sont tous révolus."
+        },
+        {
+          "type": "texte",
+          "texte": "Avant que le monde ne fût (bis)\nAinsi (basse), ainsi que la terre (4)\nA jamais, à jamais\nTu es l’unique et même Dieu\nD’éternité en éternité\nA jamais le même\nTu es Dieu éternellement,\nA jamais le même. Psaumes 90"
+        }
+      ]
+    },
+    {
+      "identifiant": "C012",
+      "numero": "12",
+      "titre": "Gloire soit à Dieu qui règne en suprême souverain",
+      "categorie": "Classique",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Gloire soit à Dieu qui règne en suprême souverain,\nrendons grâce à Dieu créateur, louez le à jamais,\ntoutes les nations Adorons l'Eternel Prince de gloire.\nServez avec joie le seigneur Dieu de l'univers\n\nSolo alto :\nLui comme un berger,\naimable et tendre nous garde dans de verts pâturages.\nLui comme un berger chérit ses enfants\nprenant les meurtris dans ses bras d'amour.\n\nSolo basse\nÀ travers la vallée et la pénombre,\nil sera avec nous pour guider nos pas,\nil nous défendra tout au long du chemin,\nilluminée par sa sainte gloire.\n\nDuo soprano et Ténor :\nHeureuses sont les âmes qui,\ntrouvent leur refuge en Dieu seul,\nsous sa puissante bannière\nelles seront bénie à jamais\n\nChœur :\nbattez vos mains de joie peuple,\nbattez vos mains de joie, louez Jéhovah,\naccourrez dans son saint temple,\npour proclamer ses hauts faits.\nBattez vos mains de joie peuple.\nExaltez-le au son de vos instruments.\nGloire gloire alléluia, terre chante, chante fort amen.\nToujours plus fort amen."
+        }
+      ]
+    },
+    {
+      "identifiant": "C013",
+      "numero": "13",
+      "titre": "Oh Dieu tu es digne de recevoir",
+      "categorie": "Louange",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Oh Dieu tu es digne de recevoir, \nToute la gloire Oui\nToute la gloire (bis) \n\nNon point à nous Seigneur, \nMais à toi seul toute la gloire\n\nO Dieu tu es digne de recevoir\nToute la gloire à Jamais (bis) \n\nO Dieu tu es digne de recevoir\nToute la gloire(bis)"
+        }
+      ]
+    },
+    {
+      "identifiant": "C014",
+      "numero": "14",
+      "titre": "Amen\nAmen Alléluia",
+      "categorie": "Louange",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Amen\nAmen\nAlléluia\nAvec des actions joyeuses\nLouons le Seigneur Jésus, \nGlorifions le saint des saints\nCélébrons sa Majesté. \nAlléluia Amen, Alléluia\nAmen (x2) \nLouange et gloire à Dieu\nAmen"
+        }
+      ]
+    },
+    {
+      "identifiant": "C015",
+      "numero": "15",
+      "titre": "Amen ! Alléluia l’Eternel est mon berger",
+      "categorie": "Louange",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Amen ! Alléluia, \nL’Eternel est mon berger, \nTout est en moi. \nJe repose dans les beaux lieux, \nMon âme en paix. \nIl me conduit dans les sentiers, \nDe la justice à cause de² son nom"
+        }
+      ]
+    },
+    {
+      "identifiant": "C016",
+      "numero": "16",
+      "titre": "Si je vis Seigneur c'est par ta grâce",
+      "categorie": "Louange",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Si je vis Seigneur c'est par ta grâce, \nPar ta bonté tu me donnes la paix du cœur, \n\nSoit loué, soit loué, \nOh Dieu soit loué. \n\nOh mon Sauveur, \n \nMon Rédempteur, \nOh mon Guide Et bon Berger.\nTu m'as délivré de mes souffrances Oh mon Dieu,\nSoit loué... \nOh Dieu soit loué.\n\nJe glorifie\n(Gloire) !\nTon saint Nom Jésus christ\n(Gloire) !\nJe proclame\n(Gloire) !\nOh mon Dieu tes bienfaits\n(Gloire) !✓ \nOh Dieu Tout puissant\n(Puissant) !✓ \nOh grand Dieu suprême, \n \n(Merci) !✓ \n\nMerci / merci à toi oh mon sauveur."
+        }
+      ]
+    },
+    {
+      "identifiant": "C017",
+      "numero": "17",
+      "titre": "Si je vis c'est grâce à Dieu, la source de tous mes biens",
+      "categorie": "Louange",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Si je vis c'est grâce à Dieu, la source de tous mes biens, \nIl est l'auteur de ma foi, il est tout pour moi.\nCe que je reçois, me vient de l'Eternel Dieu\n(C’est pourquoi) je me réjouis en chantant. \n\nVoilà pourquoi mon être vibre pour lui,\nje tressaille pour lui, je me réjouis pour lui,\n(voilà pourquoi) je le louerai toujours (oui vraiment).\nCe que je reçois me vient de l'Eternel Dieu\n(c'est pourquoi) je me réjouis en chantant.\n\nJésus a versé, son sang pour moi, \nil m'a donné la paix, le bonheur. \nCe que je reçois me vient de Jésus que son nom glorifié."
+        }
+      ]
+    },
+    {
+      "identifiant": "C018",
+      "numero": "18",
+      "titre": "Vous avez décidé ce jour de demeurer ensemble toujours",
+      "categorie": "Mariage",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Vous avez décidé ce jour de demeurer ensemble toujours\nPour le bien et pour le pire\nSoyez donc fidèles\nDans la joie réjouissez-vous.\nDans les peines priez.\n\nSolo ténor : \nPréservez toujours l’amour, \nPréservez toujours l'entente. \nC'est à ce prix que Jésus bénira votre foyer."
+        }
+      ]
+    },
+    {
+      "identifiant": "C019",
+      "numero": "19",
+      "titre": "A qu’il est beau",
+      "categorie": "Mariage",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "A qu’il est beau, \nDe voir des frères, \nD’un même amour, \nUnis entre eux. \nEsprit de Dieu, \nÉclaire tes enfants, \nEmbrasse-les, \nDe ton amour"
+        }
+      ]
+    },
+    {
+      "identifiant": "C020",
+      "numero": "20",
+      "titre": "Venez voir",
+      "categorie": "Mariage",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Venez (x2) \nVenez voir (x3) \nVoyez comment je loue mon Dieu \nVenez, venez, venez \nFaire comme moi."
+        }
+      ]
+    },
+    {
+      "identifiant": "C021",
+      "numero": "21",
+      "titre": "Sika or ni djètè hufué",
+      "categorie": "Offrande",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Sika or ni djètè hufué\nO ti wo liè\nMi mien fa blè wo\nSo mi tchèlè nu o mien.\n\nTenor : Anangaman Gnamien"
+        }
+      ]
+    },
+    {
+      "identifiant": "C022",
+      "numero": "22",
+      "titre": "J’ai fait don de ma personne",
+      "categorie": "Offrande",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "J’ai fait don de ma personne \nA Jésus le rédempteur\n Car en vain, dans tout l’univers\nJ’ai cherché le don parfait\nIl vaut mieux que ce soit ainsi\n Si je désire vivre en sa présence."
+        }
+      ]
+    },
+    {
+      "identifiant": "C023",
+      "numero": "23",
+      "titre": "Venez avec joie",
+      "categorie": "Offrande",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Venez avec joie, \ndonnez tous vos présents à Dieu.\nDonnez à Dieu sans regret"
+        }
+      ]
+    },
+    {
+      "identifiant": "C024",
+      "numero": "24",
+      "titre": "Ne cherchez parmi les morts celui qui est vivant",
+      "categorie": "Pâque",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Ne cherchez parmi les morts celui qui est vivant.\nJésus n'est pas ici, il a vaincu la mort.\nIl est ressuscité."
+        }
+      ]
+    },
+    {
+      "identifiant": "C025",
+      "numero": "25",
+      "titre": "Alléluia Christ ressuscité",
+      "categorie": "Pâque",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Alléluia Christ ressuscité\nAlléluia Christ est vivant\nAvec joie et action de grâce,\nRencontre notre libérateur.\n\nAlléluia Christ est ressuscité, \nQue le ciel et terre écoute ce chant\nQue tous nos regards se tournent vers le sauveur,\nAlléluia il est ressuscité alléluia."
+        }
+      ]
+    },
+    {
+      "identifiant": "C026",
+      "numero": "26",
+      "titre": "Au troisième jours, Christ a vaincu la mort",
+      "categorie": "Pâque",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Au troisième jours, Christ a vaincu la mort,\nAu troisième jour Christ est ressuscité. (*2 fois)\nLouez-le louez le peuple louez le louez le.\nLouez-le louez le peuple louez le louez le."
+        }
+      ]
+    },
+    {
+      "identifiant": "C027",
+      "numero": "27",
+      "titre": "Glorifions Jésus le Roi des rois",
+      "categorie": "Pâque",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Glorifions Jésus le Roi des rois,\nIl a vaincu la mort, le péché.\nMagnifions le car il est ressuscité,\nIl est vivant (vivant)\nJe ne crains plus rien"
+        }
+      ]
+    },
+    {
+      "identifiant": "C028",
+      "numero": "28",
+      "titre": "Jérusalem",
+      "categorie": "Pâque",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Jérusalem, séjour de paix\nJérusalem, cité des cieux\nUn jour surement\nNous serons avec Christ\nChantant alléluia !"
+        }
+      ]
+    },
+    {
+      "identifiant": "C029",
+      "numero": "29",
+      "titre": "C’est pour toi que Jésus a été crucifié à Golgotha",
+      "categorie": "Pâque",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "C’est pour toi que Jésus a été crucifié à Golgotha,\nLà-bas, Il a pris tes souffrances et tes douleurs.\nBien ainé ouvre lui ton cœur\nC’est lui ton sauveur, Il mettra fin à tes soucis\nRien n’est impossible à ce Jésus rédempteur"
+        }
+      ]
+    },
+    {
+      "identifiant": "C030",
+      "numero": "30",
+      "titre": "Je suis le vrai pain",
+      "categorie": "Sainte-Scène",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Je suis le vrai pain\nLe vrai pain de vie\nQui vient à moi n’aura jamais faim et soif\nQui croit en moi n’aura jamais faim et soif\nMais il aura la vie éternelle\nMais il aura la vie éternelle. Amen !"
+        }
+      ]
+    },
+    {
+      "identifiant": "C031",
+      "numero": "31",
+      "titre": "Je ne sais pourquoi, dans sa grâce",
+      "categorie": "Sainte-Scène",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Je ne sais pourquoi, dans sa grâce,\nJésus m’a tant aimé,\nPourquoi par son sang il efface,\nma dette et mon péché."
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nMais, je sais, qu’en Lui j’ai la vie,\nIl m’a sauvé dans son amour ;\nEt gardé par sa main meurtrie,\nJ’attends l’heure de son retour."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> Je ne sais comment la lumière\nEclaire tout mon cœur,\nComment je compris ma misère\nEt reçus mon sauveur !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> Je ne sais quelle est la mesure\nDe joie et de douleur\nQue pour moi, faible créature,\nRéserve mon sauveur"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>4.</span> Je ne sais quand de la victoire\nL'heure enfin sonnera,\nQuand l'Agneau, l'Epoux, dans sa gloire\nAvec Lui me prendra."
+        }
+      ]
+    },
+    {
+      "identifiant": "C032",
+      "numero": "32",
+      "titre": "Au pied de la sainte croix",
+      "categorie": "Sainte-Scène",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> AU pied de la sainte croix,\nJaillit la fontaine\nDu salut que je reçois,\nGrâce souveraine."
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nO Sauveur, rédempteur,\nPar toi j'ai la vie ;\nC'est dans le sang de la croix\nQue je me confie."
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> Seigneur, le sang de ta croix\nMes péchés efface,\nTu me le dis, je le crois:\n«Du mal plus de trace.»"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> M'asseoie au pied de ta croix\nEst mon doux partage,\nC'est là que j'entends ta voix\nQui me dit : courage !"
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>4.</span> Jusqu'au bout, la sainte croix\nSera mon seul thème,\nCar près d'elle, j'entrevois\nAu loin le ciel même."
+        }
+      ]
+    },
+    {
+      "identifiant": "C033",
+      "numero": "33",
+      "titre": "Blanc, plus blanc que neige",
+      "categorie": "Sainte-Scène",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>1.</span> Jésus, par ton sang précieux,\nEnlève mon iniquité !\nRegarde-moi du haut des cieux,\nDis-moi que tu m'as pardonné... \nJ'ai longtemps erré, coeur rebelle,\nMais j'entends ta voix qui m'appelle,\nAu pied de ta croix, maintenant,\nTout confus, brisé, je me rends."
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nBlanc, plus blanc que neige, \nBlanc, plus blanc que neige, \nLavé dans le sang de l'Agneau, \nJe serai plus blanc que la neige ! "
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>2.</span> Oh ! le fardeau de mon péché, \nDieu très saint, est trop grand pour moi ! \nJe veux en être délivré, \nA cette heure, oh ! révèle-toi ! \nJésus, viens, sois ma délivrance, \nSeul tu peux calmer ma souffrance ! \nAu pied de ta croix, maintenant, \nTout confus, brisé, je me rends. "
+        },
+        {
+          "type": "couplet",
+          "texte": "<span style='color:red; font-weight:bold;'>3.</span> Oh ! Jésus, ton sang précieux \nA lavé mon iniquité, \nOui, tu m'as répondu des cieux, \nTon amour m'a tout pardonné. \nJe te contemple et je puis croire \nQu'en toi j'ai complète victoire... \nAu pied de ta croix, maintenant, \nJe me relève, triomphant ! "
+        },
+        {
+          "type": "refrain",
+          "texte": "<span style='color:red; font-weight:bold;'>Refrain :</span>\nBlanc, plus blanc que neige, \nBlanc, plus blanc que neige, \nLavé dans le sang de l'Agneau, \nMon cœur est plus blanc que la neige !"
+        }
+      ]
+    },
+    {
+      "identifiant": "C034",
+      "numero": "34",
+      "titre": "Ba wu Jésus ba man yé n'dê tchin ba su",
+      "categorie": "Nôel",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Ba wu Jésus ba man yé n'dê tchin ba su. \nBua kankanfuê mun ô nin nglwêlê fuê mun.\nÔ nin n'glolô anju mun klwa amun bla, \nMan yé to andjuê djué ye kanvun yi. \n\nYa nyan nguan manfuê. \nY'a yo aladjé difuê mun. \n\nY'a nyan nguan manfuê, \nyê lê yé defuê mien Jesus."
+        }
+      ]
+    },
+    {
+      "identifiant": "C035",
+      "numero": "35",
+      "titre": "Chrétien réjouis-toi",
+      "categorie": "Nôel",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "texte",
+          "texte": "Chrétien réjouis-toi, \nEt tressaille d'allégresse. \nChantons chantons sans cesse. \nIl est Roi de l'univers. \n\nOui le seigneur, \nIl est Roi \nLe Seigneur de l'univers, \nL'univers. \n\nOui le sauveur, \nIl est Roi \nLe sauveur de l'univers, \nL'univers."
+        }
+      ]
+    },
+    {
+      "identifiant": "C036",
+      "numero": "36",
+      "titre": "Chant",
+      "categorie": "Nôel",
+      "favori": false,
+      "paroles": [
+        {
+          "type": "couplet",
+          "texte": ""
+        }
+      ]
+    }
+  ]}
