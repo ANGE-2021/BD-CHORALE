@@ -8,6 +8,7 @@
       "titre": "Par tous les saints glorifiés",
       "categorie": "Cantique",
       "favori": false,
+      "vignette": "assets/assets/images/cantique_vignette.png"
       "paroles": [
         {
           "type": "couplet",
